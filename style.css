@@ -2,16 +2,100 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-h1 {
+.first-section {
+
+    background-image: url(images/donation4.jpg);
+    background-size: cover;
+    height: 600px;
+    position: relative;
+    border: 0ch;
+}
+
+.header {
     text-align: center;
     font-size: 60px;
-    color: indigo;
+    color: orange;
 }
 
-.first-section-p {
+.header-2 {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+.first-section-div {
+    text-align: center;
+    background-size: cover;
+}
+
+.first-para {
+    color: rgb(237, 210, 8);
+}
+
+.donate-now-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    color: aqua;
+    border-radius: 10px;
+
+
+}
+
+.amount {
+    display: flex;
+    text-align: center;
+
+}
+
+.tk {
+    box-shadow: 10px 10px 30px skyblue;
+    text-align: center;
+    width: 10%;
+
+}
+
+.other-amount {
+    text-align: center;
+    font-size: 30px;
+}
+
+.donate-div {
     text-align: center;
 }
 
-.first-hyper {
+.header-3 {
     text-align: center;
+    font-size: 50px;
+}
+
+.second-para {
+    text-align: center;
+}
+
+.fourth-section {
+    display: flex;
+
+}
+
+.icon-div {
+    padding: 20px 20px;
+    margin: 10px 10px;
+}
+
+.fifth-section {
+    display: flex;
+}
+
+.fifth-div {
+    width: 50%;
+
+}
+
+.fifth-div img {
+    width: 100%;
+}
+
+.fifth-para {
+    font-size: 20px;
 }
