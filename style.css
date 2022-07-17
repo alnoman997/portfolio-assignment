@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: indigo;
+}
+
+.first-section-p {
+    text-align: center;
+}
+
+.first-hyper {
+    text-align: center;
+}
