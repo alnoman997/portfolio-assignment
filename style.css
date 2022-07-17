@@ -99,3 +99,40 @@ body {
 .fifth-para {
     font-size: 20px;
 }
+
+.sixth-div {
+    text-align: center;
+}
+
+#header6 {
+    font-size: 50px;
+}
+
+.sixth-div2 {
+    text-align: center;
+    display: flex;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+
+#footer-heading {
+    font-style: italic;
+    color: brown;
+}
+
+#mail {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    color: navy;
+    text-align: center;
+
+}
+
+.last-section {
+    text-align: center;
+}
